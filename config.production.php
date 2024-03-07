@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'https://mass6.github.io/',
+    'baseUrl' => '',
     'production' => true,
 ];
