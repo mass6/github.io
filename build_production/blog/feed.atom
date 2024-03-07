@@ -1,21 +1,21 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Blog Starter Template</title>
-    <link href="https://jigsaw-blog-template.tighten.co/blog" />
-    <link type="application/atom+xml" rel="self" href="https://jigsaw-blog-template.tighten.co/blog/feed.atom" />
-    <updated>2024-03-07T17:58:27+00:00</updated>
-    <id>https://jigsaw-blog-template.tighten.co/blog/feed.atom</id>
+    <title>Sam Ciaramilaro</title>
+    <link href="https://mass6.github.io/blog" />
+    <link type="application/atom+xml" rel="self" href="https://mass6.github.io/blog/feed.atom" />
+    <updated>2024-03-07T18:55:05+00:00</updated>
+    <id>https://mass6.github.io/blog/feed.atom</id>
     <author>
-        <name>Author Name</name>
+        <name>Sam Ciaramilaro</name>
     </author>
                 <entry>
-    <id>https://jigsaw-blog-template.tighten.co/blog/getting-started</id>
-    <link type="text/html" rel="alternate" href="https://jigsaw-blog-template.tighten.co/blog/getting-started" />
+    <id>https://mass6.github.io/blog/getting-started</id>
+    <link type="text/html" rel="alternate" href="https://mass6.github.io/blog/getting-started" />
     <title>Getting Started</title>
     <published>2022-08-03T00:00:00+00:00</published>
     <updated>2022-08-03T00:00:00+00:00</updated>
     <author>
-        <name>Author Name</name>
+        <name>Sam Ciaramilaro</name>
     </author>
     <summary type="html">This is a starter template for creating a beautiful, customizable blog with minimal effort. You’ll only have to change a few settings and you’re ready to go....</summary>
     <content type="html"><![CDATA[
@@ -84,13 +84,13 @@ npm run dev
     ]]></content>
 </entry>
             <entry>
-    <id>https://jigsaw-blog-template.tighten.co/blog/customizing-your-site</id>
-    <link type="text/html" rel="alternate" href="https://jigsaw-blog-template.tighten.co/blog/customizing-your-site" />
+    <id>https://mass6.github.io/blog/customizing-your-site</id>
+    <link type="text/html" rel="alternate" href="https://mass6.github.io/blog/customizing-your-site" />
     <title>Customizing Your Site</title>
     <published>2022-08-01T00:00:00+00:00</published>
     <updated>2022-08-01T00:00:00+00:00</updated>
     <author>
-        <name>Author Name</name>
+        <name>Sam Ciaramilaro</name>
     </author>
     <summary type="html">This starter template comes pre-loaded with Tailwind CSS, a utility CSS framework that allows you to customize and build complex designs without touching a line of CSS....</summary>
     <content type="html"><![CDATA[
@@ -190,13 +190,13 @@ npm run dev
     ]]></content>
 </entry>
             <entry>
-    <id>https://jigsaw-blog-template.tighten.co/blog/fuse-search</id>
-    <link type="text/html" rel="alternate" href="https://jigsaw-blog-template.tighten.co/blog/fuse-search" />
+    <id>https://mass6.github.io/blog/fuse-search</id>
+    <link type="text/html" rel="alternate" href="https://mass6.github.io/blog/fuse-search" />
     <title>Fuse Search</title>
     <published>2022-07-29T00:00:00+00:00</published>
     <updated>2022-07-29T00:00:00+00:00</updated>
     <author>
-        <name>Author Name</name>
+        <name>Sam Ciaramilaro</name>
     </author>
     <summary type="html">To provide fast, local search of your blog, this starter template comes with a pre-built Vue.js component that uses Fuse.js. Fuse.js is a &quot;lightweight fuzzy-search library with no dependencies.&quot; It works by running queries against a JSON index of your......</summary>
     <content type="html"><![CDATA[
@@ -208,13 +208,13 @@ npm run dev
     ]]></content>
 </entry>
             <entry>
-    <id>https://jigsaw-blog-template.tighten.co/blog/mailchimp-newsletters</id>
-    <link type="text/html" rel="alternate" href="https://jigsaw-blog-template.tighten.co/blog/mailchimp-newsletters" />
+    <id>https://mass6.github.io/blog/mailchimp-newsletters</id>
+    <link type="text/html" rel="alternate" href="https://mass6.github.io/blog/mailchimp-newsletters" />
     <title>Mailchimp Newsletters</title>
     <published>2022-07-26T00:00:00+00:00</published>
     <updated>2022-07-26T00:00:00+00:00</updated>
     <author>
-        <name>Author Name</name>
+        <name>Sam Ciaramilaro</name>
     </author>
     <summary type="html">Mailchimp is a fantastic marketing platform, and takes the pain out of managing email lists and campaigns. The blog starter template comes with a beautiful pre-built newsletter form, that only needs a Mailchimp list URL to send to.
 
@@ -254,13 +254,13 @@ To begin accepting......</summary>
     ]]></content>
 </entry>
             <entry>
-    <id>https://jigsaw-blog-template.tighten.co/blog/custom-404-page</id>
-    <link type="text/html" rel="alternate" href="https://jigsaw-blog-template.tighten.co/blog/custom-404-page" />
+    <id>https://mass6.github.io/blog/custom-404-page</id>
+    <link type="text/html" rel="alternate" href="https://mass6.github.io/blog/custom-404-page" />
     <title>Custom 404 Pages</title>
     <published>2022-07-24T00:00:00+00:00</published>
     <updated>2022-07-24T00:00:00+00:00</updated>
     <author>
-        <name>Author Name</name>
+        <name>Sam Ciaramilaro</name>
     </author>
     <summary type="html">This starter template includes a custom 404 Not Found error page, located at &lt;code&gt;/source/404.blade.php&lt;/code&gt;. To preview the 404 page, you can visit &lt;code&gt;/404&lt;/code&gt; in your browser.
 
@@ -297,13 +297,13 @@ Depending on where your site is hosted, you may need to......</summary>
     ]]></content>
 </entry>
             <entry>
-    <id>https://jigsaw-blog-template.tighten.co/blog/my-first-blog-post</id>
-    <link type="text/html" rel="alternate" href="https://jigsaw-blog-template.tighten.co/blog/my-first-blog-post" />
+    <id>https://mass6.github.io/blog/my-first-blog-post</id>
+    <link type="text/html" rel="alternate" href="https://mass6.github.io/blog/my-first-blog-post" />
     <title>My First Blog Post</title>
     <published>2022-07-20T00:00:00+00:00</published>
     <updated>2022-07-20T00:00:00+00:00</updated>
     <author>
-        <name>Author Name</name>
+        <name>Sam Ciaramilaro</name>
     </author>
     <summary type="html">This is the start of your first blog post....</summary>
     <content type="html"><![CDATA[
