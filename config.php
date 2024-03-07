@@ -5,14 +5,14 @@ use Illuminate\Support\Str;
 return [
     'baseUrl' => '',
     'production' => false,
-    'siteName' => 'Blog Starter Template',
-    'siteDescription' => 'Generate an elegant blog with Jigsaw',
-    'siteAuthor' => 'Author Name',
+    'siteName' => 'Sam Ciaramilaro',
+    'siteDescription' => 'Sam Ciaramilaro - Software Engineer',
+    'siteAuthor' => 'Sam Ciaramilaro',
 
     // collections
     'collections' => [
         'posts' => [
-            'author' => 'Author Name', // Default author, if not provided in a post
+            'author' => 'Sam Ciaramilaro',
             'sort' => '-date',
             'path' => 'blog/{filename}',
         ],
